@@ -1,6 +1,6 @@
 # Identifying fungal-infected apples
 ***
-This is a project of multiple pattern recognition models identifying apples and fresh apples infected with different fungi, and we provide the raw and preprocessed data here, along with the corresponding codes.
+This is a project of multiple pattern recognition models identifying fresh apples and apples infected with different fungi, and we provide the raw and preprocessed data here, along with the corresponding codes.
 
 #  Download code and datasets
 ***
